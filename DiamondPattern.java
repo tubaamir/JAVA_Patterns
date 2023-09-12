@@ -1,4 +1,4 @@
-//Printing Pattern Number Pyramid
+//Printing Pattern diamond
 //This Java program prints the following pattern after being executed
 /*
  *      *
