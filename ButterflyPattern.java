@@ -1,4 +1,5 @@
 //Printing Butterfly Pattern
+// This Java program prints the following pattern after being executed
 /*
  *     *    *
  *     **  **
