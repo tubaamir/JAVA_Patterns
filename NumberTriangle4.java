@@ -1,4 +1,5 @@
 //printing pattern floyd"s triangle
+// This Java program prints the following pattern after being executed
 /*
  *    1
  *    2  3
@@ -14,7 +15,7 @@ public class NumberTriangle4 {
         Scanner sc = new Scanner(System.in);
         int x = 1;
         int n = sc.nextInt();
-        //int m = sc.nextInt();
+        
         for (int i=1; i<=n; i++ ) {
             for (int j=1; j<=i; j++) {
                 System.out.print(x++ +" ");
